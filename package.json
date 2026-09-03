@@ -1,0 +1,15 @@
+{
+  "name": "expb-simple-mesure",
+  "version": "1.17.0",
+  "private": true,
+  "description": "Small Measure widget for ArcGIS Experience Builder.",
+  "license": "MIT",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "docs:build": "node scripts/build-docs-site.mjs",
+    "validate": "node scripts/validate-widget.mjs",
+    "verify": "npm run validate && npm run docs:build"
+  }
+}

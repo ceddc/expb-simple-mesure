@@ -1,0 +1,19 @@
+System.register([], function (_export) {
+  return {
+    execute: function () {
+      _export({
+        _widgetLabel: "Meten",
+        measurementTools: "Meetgereedschappen",
+        measureDistance: "Afstand meten",
+        deleteMeasurement: "Meting verwijderen",
+        ready: "Gereed",
+        drawStart: "Klik op de kaart om te beginnen",
+        drawContinue: "Klik om door te gaan",
+        lengthMeters: '{value} m',
+        lengthKilometers: '{value} km',
+        lengthFeet: '{value} ft',
+        lengthMiles: '{value} mi'
+      })
+    }
+  }
+})

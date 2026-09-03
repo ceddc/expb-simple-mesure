@@ -1,0 +1,10 @@
+{
+  "allowMultiple": false,
+  "showMapLabel": true,
+  "lineColor": "#0079c1",
+  "lineWidth": 3,
+  "labelFontFamily": "Arial",
+  "labelFontSize": 12,
+  "unit": "meters",
+  "numberFormat": "european"
+}

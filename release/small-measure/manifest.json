@@ -1,0 +1,33 @@
+{
+  "name": "small-measure",
+  "label": "Small Measure",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Cedric Despierre Corporon",
+  "description": "Compact line measurement tool for an Experience Builder map.",
+  "copyright": "Copyright 2026 Cedric Despierre Corporon",
+  "license": "https://opensource.org/license/mit/",
+  "dependency": "jimu-arcgis",
+  "settingDependency": "jimu-arcgis",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "fr",
+    "de",
+    "es",
+    "it",
+    "pt-br",
+    "nl",
+    "pl",
+    "cs",
+    "da",
+    "sv",
+    "nb",
+    "fi"
+  ],
+  "defaultSize": {
+    "width": 72,
+    "height": 40
+  }
+}

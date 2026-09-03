@@ -1,0 +1,7 @@
+{
+  "name": "expb-simple-mesure",
+  "type": "exb-web-extension-repo",
+  "description": "Small Measure widget for ArcGIS Experience Builder.",
+  "copyright": "Copyright 2026 Cedric Despierre Corporon",
+  "license": "https://opensource.org/license/mit/"
+}
